@@ -141,7 +141,7 @@ npm run dev --prefix frontend
 
 ## 🌍 Live Demo
 
-🟢 [Check it out here]([Chattrix])(https://chattrix-w0kw.onrender.com)
+🟢 [Check it out here] [Chattrix](https://chattrix-w0kw.onrender.com)
 
 ---
 
